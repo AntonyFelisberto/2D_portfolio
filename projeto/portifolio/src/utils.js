@@ -1,7 +1,7 @@
-export function displayDialog(text,onDisplayEnd){
+export function displayDialogue(text,onDisplayEnd){
     const dialogueUi = document.getElementById('textbox-container');
     const dialogue = document.getElementById('dialogue');
-    dialogue.style.display = 'block';
+    dialogueUi.style.display = 'block';
 
     let index = 0
     let currentText = ""
