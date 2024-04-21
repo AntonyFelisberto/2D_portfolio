@@ -1,4 +1,4 @@
-# 2D_portifolio
+# 2D_portfolio
  
 npm create vite@latest
 √ Project name: ... portifolio
